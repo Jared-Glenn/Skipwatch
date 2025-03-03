@@ -17,3 +17,4 @@ A game of a skipwatch conductor.
 
 ### Story
 - Some dude inherits his grandfather's skipwatch or something?
+- Some guy wants to find and make use of old skipwatch routes?
