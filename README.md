@@ -19,3 +19,7 @@ A game of a skipwatch conductor.
 - Some dude inherits his grandfather's skipwatch or something?
 - Some guy wants to find and make use of old skipwatch routes?
 - Someone gets stuck in the wilderness and finds a skipwatch and uses it to get home, then uses it to make money.
+
+### Characters
+- Innkeepers in towns along the routes.
+- Partner who helps on the trail.
