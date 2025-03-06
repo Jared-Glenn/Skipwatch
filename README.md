@@ -22,4 +22,6 @@ A game of a skipwatch conductor.
 
 ### Characters
 - Innkeepers in towns along the routes.
-- Partner who helps on the trail.
+- Partner who helps on the trail, like a porter or bagman.
+- Station watchers.
+- Recurring passengers.
