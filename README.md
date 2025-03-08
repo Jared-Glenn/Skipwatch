@@ -25,6 +25,7 @@ A game of a skipwatch conductor.
 - Partner who helps on the trail, like a porter or bagman.
 - Station watchers.
 - Recurring passengers.
+- Someone with the Drift who begs for a ride back east, despite being contageous.
 
 
 ## Mechanics
