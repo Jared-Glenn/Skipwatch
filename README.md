@@ -35,6 +35,9 @@ A game of a skipwatch conductor.
 
 ### Controlling the Skipwatch
 
+### Walking to the Station
+-Actually show the distance, allowing for an accident later on that puts you WAY off course.
+
 ### Protecting the Station
 - First Person Shooter?
 - Turn based combat?
