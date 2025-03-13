@@ -37,6 +37,8 @@ A game of a skipwatch conductor.
 
 ### Walking to the Station
 -Actually show the distance, allowing for an accident later on that puts you WAY off course.
+- Platforming?
+- TTRPG movement?
 
 ### Protecting the Station
 - First Person Shooter?
