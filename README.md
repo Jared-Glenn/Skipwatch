@@ -34,6 +34,7 @@ A game of a skipwatch conductor.
 ### Finding Passengers
 - Go to the town's Skip Station and decide which passengers to help, if any.
 - You can choose to go anywhere, with or without passengers, but it's expensive. ... But why?
+- Some sort of resource? Maybe Dibel replacements or something?
 
 ### Controlling the Skipwatch
 
