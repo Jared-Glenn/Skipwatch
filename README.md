@@ -37,7 +37,8 @@ A game of a skipwatch conductor.
 - Some sort of resource? Maybe Dibel replacements or something?
 
 ### Controlling the Skipwatch
-- Minigames.
+- Minigames?
+- Latching a thread (from the Southern Spike) and using it to fling yourself?
 
 ### Walking to the Station
 -Actually show the distance, allowing for an accident later on that puts you WAY off course.
