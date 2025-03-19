@@ -35,6 +35,7 @@ A game of a skipwatch conductor.
 - Go to the town's Skip Station and decide which passengers to help, if any.
 - You can choose to go anywhere, with or without passengers, but it's expensive. ... But why?
 - Some sort of resource? Maybe Dibel replacements or something?
+- Keep track of schedules so passengers don't choose to take a wagon or train instead.
 
 ### Controlling the Skipwatch
 - Minigames?
