@@ -36,6 +36,7 @@ A game of a skipwatch conductor.
 - You can choose to go anywhere, with or without passengers, but it's expensive. ... But why?
 - Some sort of resource? Maybe Dibel replacements or something?
 - Keep track of schedules so passengers don't choose to take a wagon or train instead.
+- That would be an enormous cast, though, right? How many towns are we thinking? 10? 20? 50?
 
 ### Controlling the Skipwatch
 - Minigames?
