@@ -28,6 +28,9 @@ A game of a skipwatch conductor.
 - Recurring passengers.
 - Someone with the Drift who begs for a ride back east, despite being contageous.
 
+### Style
+- Pixel art would be simple and easier than full art.
+- Standard Manifest art for portraits, but simpler graphics?
 
 ## Mechanics
 
