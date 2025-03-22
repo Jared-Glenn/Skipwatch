@@ -30,7 +30,7 @@ A game of a skipwatch conductor.
 
 ### Style
 - Pixel art would be simple and easier than full art.
-- Standard Manifest art for portraits, but simpler graphics?
+- Standard Manifest art for portraits, but simpler, pixelated graphics
 
 ## Mechanics
 
