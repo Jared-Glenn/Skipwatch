@@ -14,7 +14,7 @@ A game of a skipwatch conductor.
 - Roguelite
 - City Builder
 - Relationship/Customer manager
-- *Try Keep Driving game.*
+- *Try "Keep Driving" game.*
 
 ### Story
 - Some dude inherits his grandfather's skipwatch or something?
@@ -45,6 +45,7 @@ A game of a skipwatch conductor.
 ### Controlling the Skipwatch
 - Minigames?
 - Latching a thread (from the Southern Spike) and using it to fling yourself?
+- What if it's a management game like Stardew Valley. Keeping the smaller subsystems going amounts to a series of "chores."
 
 ### Walking to the Station
 -Actually show the distance, allowing for an accident later on that puts you WAY off course.
