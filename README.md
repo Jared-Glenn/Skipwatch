@@ -40,6 +40,7 @@ A game of a skipwatch conductor.
 - Some sort of resource? Maybe Dibel replacements or something?
 - Keep track of schedules so passengers don't choose to take a wagon or train instead.
 - That would be an enormous cast, though, right? How many towns are we thinking? 10? 20? 50?
+- Make a basic map over a travelable region.
 
 ### Controlling the Skipwatch
 - Minigames?
