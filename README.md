@@ -57,3 +57,7 @@ A game of a skipwatch conductor.
 - Turn based combat?
 - Shooting gallary?
 - RTS?
+
+### Location
+- Del Vernar
+- Steps
