@@ -15,6 +15,7 @@ A game of a skipwatch conductor.
 - City Builder
 - Relationship/Customer manager
 - *Try "Keep Driving" game.*
+- Stardew Valley type?
 
 ### Story
 - Some dude inherits his grandfather's skipwatch or something?
