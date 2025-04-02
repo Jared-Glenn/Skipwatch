@@ -16,6 +16,8 @@ A game of a skipwatch conductor.
 - Relationship/Customer manager
 - *Try "Keep Driving" game.*
 - Stardew Valley type?
+- Base it on Doordash:
+- Get offers for rides, but the skill is in determining which fares are going to result in a worthwhile income.
 
 ### Story
 - Some dude inherits his grandfather's skipwatch or something?
