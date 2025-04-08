@@ -64,4 +64,4 @@ A game of a skipwatch conductor.
 
 ### Location
 - Del Vernar
-- Steps
+- Steps - Kind of the default. Maybe a bit of Fallen Mesa or Westilver. Maybe a four corners type situation? Or you skip between several maps or something?
