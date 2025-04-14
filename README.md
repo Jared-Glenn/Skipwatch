@@ -20,6 +20,7 @@ A game of a skipwatch conductor.
 - Base it on Doordash:
 - Get offers for rides, but the skill is in determining which fares are going to result in a worthwhile income.
 - You feel genuinely needed, but just can't afford every fare. Some fares are underpaid, but might have a sob story attached.
+- We could have a number of storylines that people follow or don't.
 
 ### Story
 - Some dude inherits his grandfather's skipwatch or something?
