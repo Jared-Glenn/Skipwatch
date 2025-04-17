@@ -47,6 +47,8 @@ A game of a skipwatch conductor.
 - Keep track of schedules so passengers don't choose to take a wagon or train instead.
 - That would be an enormous cast, though, right? How many towns are we thinking? 10? 20? 50?
 - Make a basic map over a travelable region.
+- Something big but simple like Rimworld, or a number of more detailed smaller maps.
+- It would be neat if there were places in the wilds you're never told to go, but which you can find by treking into the forest on your own.
 
 ### Controlling the Skipwatch
 - Minigames?
