@@ -59,6 +59,9 @@ A game of a skipwatch conductor.
 ### Controlling the Skipwatch
 - Minigames?
 - Latching a thread (from the Southern Spike) and using it to fling yourself?
+- Setting up the skip happens 15 minutes before the actual skip.
+- Should be done by choosing the most efficient route, but some stations are in safer areas than others.
+- Controlling the knobs seems important. Maybe it's a game of precisely controlling a crosshairs to point at a given destination and messing up sends you further off.
 - What if it's a management game like Stardew Valley. Keeping the smaller subsystems going amounts to a series of "chores."
 
 ### Walking to the Station
