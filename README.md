@@ -33,6 +33,8 @@ A game of a skipwatch conductor.
 - A trip into the territory. Multiple rides to get far in so we meet her and her kids.
 - We catch up with her later as she follows him to another place (further north,maybe?)
 
+#### Creating a Union with other skipwatch conductors
+
 ### Characters
 - Innkeepers in towns along the routes.
 - Partner who helps on the trail, like a porter or bagman.
