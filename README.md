@@ -34,6 +34,8 @@ A game of a skipwatch conductor.
 - We catch up with her later as she follows him to another place (further north,maybe?)
 
 #### Creating a Union with other skipwatch conductors
+-Choose between that and being a bootlicker or something.
+- Give some options: posters, meeting others, spreading the word organically
 
 ### Characters
 - Innkeepers in towns along the routes.
