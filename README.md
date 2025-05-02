@@ -37,6 +37,11 @@ A game of a skipwatch conductor.
 -Choose between that and being a bootlicker or something.
 - Give some options: posters, meeting others, spreading the word organically
 
+#### Rivalry with another skipwatch conductor
+- Team Rocket approach? Multiple conductors.
+- Malfoy approach? Evil singular villain.
+- Maverick approach? Friendly rivalry.
+
 ### Characters
 - Innkeepers in towns along the routes.
 - Partner who helps on the trail, like a porter or bagman.
