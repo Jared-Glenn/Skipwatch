@@ -42,6 +42,11 @@ A game of a skipwatch conductor.
 - Malfoy approach? Evil singular villain.
 - Maverick approach? Friendly rivalry.
 
+#### Douser and Older Siblings
+- Traveling wherever there's a job to buy food.
+- Young kid douser.
+- Several older siblings, including a 15-17 year old.
+
 ### Characters
 - Innkeepers in towns along the routes.
 - Partner who helps on the trail, like a porter or bagman.
