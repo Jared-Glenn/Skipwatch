@@ -8,6 +8,7 @@ A game of a skipwatch conductor.
 3) Minigame controlling the skipwatch placement.
 4) Landing a ways from a Skip Station and making your way to the station.
 5) Keep your passengers safe and happy (various tasks).
+6) Find food, keep fire stoked, refill supplies for the station, repair walls doors and locks, set and check traps, plant crops.
 
 ### Possible Genres
 - Turn-based combat
