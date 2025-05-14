@@ -48,6 +48,11 @@ A game of a skipwatch conductor.
 - Young kid douser.
 - Several older siblings, including a 15-17 year old.
 
+#### Newlywed Couple
+- Eloping together.
+- Helping them find work and a home.
+- Deciding whether or not to help family searching for them.
+
 ### Characters
 - Innkeepers in towns along the routes.
 - Partner who helps on the trail, like a porter or bagman.
