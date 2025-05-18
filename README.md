@@ -52,6 +52,7 @@ A game of a skipwatch conductor.
 - Eloping together.
 - Helping them find work and a home.
 - Deciding whether or not to help family searching for them.
+- Helping them find a new home when the first doesn't work out.
 
 ### Characters
 - Innkeepers in towns along the routes.
