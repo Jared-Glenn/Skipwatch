@@ -1,6 +1,6 @@
 # Skipwatch
 
-A game of a skipwatch conductor.
+A game of a skipwatch conductor traveling.
 
 ### Gameplay Loop
 1) Find passengers and gather them by departure time.
