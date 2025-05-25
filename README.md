@@ -54,6 +54,16 @@ A game of a skipwatch conductor traveling.
 - Deciding whether or not to help family searching for them.
 - Helping them find a new home when the first doesn't work out.
 
+### Romance Options
+
+##### Male:
+- Duskmott
+- Holflatzul
+- Mugwump
+- Hangman
+- Wudrigar
+- Pardrin
+
 ### Characters
 - Innkeepers in towns along the routes.
 - Partner who helps on the trail, like a porter or bagman.
